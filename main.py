@@ -23,3 +23,5 @@ def smartest_hero(list_of_heroes):
 if __name__ == '__main__':
     list_of_heroes = ["Thanos", "Hulk", "Captain America"]
     print(smartest_hero(list_of_heroes))
+
+
